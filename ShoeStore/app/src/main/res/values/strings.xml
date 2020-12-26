@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Shoe Store Inventory</string>
+
+    <!-- Fragments Title -->
+    <string name="welcome_fragment_title">Welcome</string>
+    <string name="instructions_fragment_title">Instructions</string>
+    <string name="shoes_list_fragment_title">Shoes</string>
+    <string name="shoe_details_fragment_title">Shoe Details</string>
+
+    <!-- Labels -->
+    <string name="email_label_text">Email</string>
+    <string name="password_label">Password</string>
+    <string name="shoe_name_label">Shoe Name</string>
+    <string name="shoe_company_label">Shoe Company</string>
+    <string name="shoe_size_label">Shoe Size</string>
+    <string name="shoe_description_label">Shoe Description</string>
+
+    <!-- Hints -->
+    <string name="enter_your_email_hint">Enter your Email</string>
+    <string name="enter_your_password_hint">Enter your Password</string>
+    <string name="enter_shoe_name_hint">Enter Shoe Name</string>
+    <string name="enter_shoe_company_hint">Enter Shoe Company</string>
+    <string name="enter_shoe_description_hint">Enter Shoe Description</string>
+
+    <!-- Buttons -->
+    <string name="login_btn_text">LOGIN</string>
+    <string name="create_account_btn_text">CREATE ACCOUNT</string>
+    <string name="welcome_btn">NEXT</string>
+    <string name="instructions_btn">GET STARTED</string>
+    <string name="save_btn">SAVE</string>
+    <string name="cancel_btn">CANCEL</string>
+
+    <!-- Onboarding Texts -->
+    <string name="welcome_text_1">Welcome to Shoe Inventory App</string>
+    <string name="welcome_text_2">In this store you will have the possibility to see all the articles available in your shoes store. You will be able also to add new articles. </string>
+    <string name="instructions_text_1">Follow these instructions: </string>
+    <string name="instructions_text_2">First login into the app and then tap on Get Started button to go to the shoes list. Press the plus floating action button to add a new article to your list.</string>
+    <string name="logout_menu_title">Logout</string>
+</resources>
